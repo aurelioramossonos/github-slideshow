@@ -1,1 +1,0 @@
-I have created a new file for Commits 101. I decided to get creative, since this section begins with "When you've finished creating or making changes to a file on GitHub..." yet, no prior instruction was given to do so in the preceding section.
